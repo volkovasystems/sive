@@ -1,0 +1,30 @@
+{
+  "name": "sive",
+  "version": "0.0.0",
+  "description": "Conditional expression aggregation.",
+  "main": "sive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/sive.git"
+  },
+  "keywords": [
+    "conditions",
+    "ifs",
+    "evaulate",
+    "true",
+    "false",
+    "condition"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/sive/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/sive#readme",
+  "dependencies": {
+    "harden": "^0.2.0"
+  }
+}

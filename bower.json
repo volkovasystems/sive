@@ -1,0 +1,33 @@
+{
+  "name": "sive",
+  "main": "sive.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/volkovasystems/sive",
+  "authors": [
+    "Richeve S. Bebedor <richeve.bebedor@gmail.com>"
+  ],
+  "description": "Conditional expression aggregation.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "conditions",
+    "ifs",
+    "evaluate",
+    "true",
+    "false",
+    "condition"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "harden": "~0.2.0"
+  }
+}
